@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculadora- peso ideal</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bona+Nova:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="reset.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <img src="/img/Dayflow - Riding.png" alt="Menino encima da bicicleta" id="img-esquerda">
+  <img src="/img/Open Doodles - Giant Ice Cream.png" alt="Meninda com sorvete" id="img-direita">
+  <main class="container"> 
+    <div class="caixa-conteudo">
+      <div class="conteudo">
+          <h2>Calcule seu peso ideal</h2>
+        <p>
+          Nome:
+          <input type="text" id="inNome" placeholder="Digite seu nome aqui"  class="caixa-entrada">
+        </p>
+        <p>
+          Sexo:
+          <input type="radio" name="sexo" id="rbMasculino" style="cursor: pointer;"> Masculino
+          <input type="radio" name="sexo" id="rbFeminino" style="cursor: pointer;"> Feminino
+        </p>
+        <p>
+          Altura: 
+          <input type="text" id="inAltura" placeholder="Altura em metros" class="caixa-entrada">
+        </p>
+        <input type="button" value="Calcular Peso" class="botoes" id="btCalcularPeso">
+        <input type="button" value="Limpar Campos" class="botoes" id="btLimparCampos">
+        <div class="box-mensagem">
+          <div class="campo-mensagem">
+            <span id="outInformacao"></span>
+          </div>
+        </div>
+      </div><!--Fim conteudo-->
+    </div>
+  </main><!--Fim container-->
+  <footer>
+    <p>Criado por: <a href="https://github.com/LucaAlvess">Lucas Alves</a></p>
+  </footer>
+
+   
+  <script src="/app.js"></script>
+</body>
+</html>
