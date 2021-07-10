@@ -4,5 +4,12 @@
 
 <img src="https://uploaddeimagens.com.br/images/003/329/346/original/peso.gif?1625947706">
 
+<h4>Desemvolvido com</h4>
+<ul>
+<li>HTML 5</li>
+<li>CSS 3</li>
+<li>Java Script</li>
+</ul>
+
 
 
