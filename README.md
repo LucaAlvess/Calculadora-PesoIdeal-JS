@@ -2,5 +2,5 @@
 
 <p>Aplicação para calcular o peso ideal a partir do sexo e tamanho do individuo</p>
 
-<a src="https://i.ibb.co/zNM5SmX/peso.gif"></a>
+<a src="https://uploaddeimagens.com.br/images/003/329/346/original/peso.gif?1625947706"></a>
 
