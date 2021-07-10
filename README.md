@@ -1,4 +1,4 @@
-# Calculadora-PesoIdeal-JS
+# Calculadora de Peso ideal - JS
 
 <p>Aplicação para calcular o peso ideal a partir do sexo e tamanho do individuo</p>
 
